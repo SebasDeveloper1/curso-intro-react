@@ -1,0 +1,8 @@
+.todo-counter {
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  font-size: 2rem;
+  font-weight: 500;
+  color: var(--color-secondary);
+}

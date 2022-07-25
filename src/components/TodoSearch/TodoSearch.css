@@ -1,0 +1,21 @@
+.todo-search {
+  width: 70%;
+  max-width: 300px;
+  padding: 14px;
+  margin-bottom: 32px;
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: var(--color-textprimary);
+  outline: none;
+  border: none;
+  border-radius: 20px;
+  background-color: var(--color-background-light);
+}
+
+.todo-search:focus {
+  border: 1px solid var(--color-primary);
+}
+
+.todo-search::placeholder {
+  color: var(--color-textprimary);
+}
