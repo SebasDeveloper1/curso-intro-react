@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# ✅My first app with React JS (TO DO list)🖼
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Final project of the Introduction to React.js Course in [Platzi](https://platzi.com/cursos/react/ "Platzi"). 💚💻
 
-## Available Scripts
+  <p align="center">
+ <a href="https://627d96e6af98810009c61f6b--platzi-api-dogs.netlify.app/">  <img alt="Demo project" src="https://img.shields.io/twitter/url?colorA=7209b7&colorB=480ca8&label=Demo project&logo=google-chrome&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FSebasDeveloper"></a>
+  </p>
 
-In the project directory, you can run:
+### 🔨 Languages and Tools:
 
-### `npm start`
+ <div align="center">
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://i.postimg.cc/mDdX2P3h/html.png" align="left" alt="html" title="html" height='70px'/> </a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://i.postimg.cc/L5YT9N60/css.png" align="left" alt="css" title="css" height='70px'/> </a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://i.postimg.cc/QCs9HRwH/javascript.png" align="left" alt="javascript" title="javascript" height='70px'/> </a>
 
-### `npm test`
+<a href="https://git-scm.com/" target="_blank"> <img src="https://i.postimg.cc/0jS9Y1yG/git-scm.png" align="left" alt="git" title="git" height='70px'/> </a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a href="https://es.reactjs.org/" target="_blank"> <img src="https://i.postimg.cc/3Jq3wQht/react-icon.png" align="left" alt="react_js" title="react_js" height='60px'/> </a>
 
-### `npm run build`
+</div>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+</br>
+</br>
+</br>
+</br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<div align="center">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+|                         <h2>💻 UI </h2>                          |                  <h2> (User Interface) 🚀</h2>                   |
+| :--------------------------------------------------------------: | :--------------------------------------------------------------: |
+| ![image1](https://i.postimg.cc/8PZmJwXK/todo-list2.png "image1") | ![image2](https://i.postimg.cc/pXWBL3C5/todo-lis1.png "image2")  |
+| ![image3](https://i.postimg.cc/59q31fBM/todo-list3.png "image3") | ![image3](https://i.postimg.cc/59q31fBM/todo-list3.png "image3") |
 
-### `npm run eject`
+</div>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📞 Contact me...
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  <p align="center">
+ <a href="https://twitter.com/SebasDeveloper">  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=00b4d8&label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FSebasDeveloper"></a>
+ <a  href="https://linkedin.com/in/sebas-developer">  <img alt="Linkedin URL" src="https://img.shields.io/twitter/url?color=0077b6&label=linkedin&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Flinkedin.com%2Fin%2Fsebas-developer"></a>
+  <a  href="https://t.me/JSPedroza">  <img alt="Telegram URL" src="https://img.shields.io/twitter/url?color=0096c7&label=telegram&logo=telegram&style=for-the-badge&url=https%3A%2F%2Flinkedin.com%2Fin%2Fsebas-developer"></a>
+  <a  href="https://platzi.com/p/SebasDeveloper/">  <img alt="Platzi URL" src="https://img.shields.io/twitter/url?color=access&label=Platzi&logo=platzi&style=for-the-badge&url=https%3A%2F%2Flinkedin.com%2Fin%2Fsebas-developer"></a>
+  <a  href="https://sebasdeveloper1.github.io/PortafolioSebastian.github.io/">  <img alt="Portfolio URL" src="https://img.shields.io/twitter/url?color=48cae4&label=Website&logo=google-chrome&logoColor=white&style=for-the-badge&url=https%3A%2F%2Flinkedin.com%2Fin%2Fsebas-developer"></a>
+  </p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+⭐️ From [@SebasDeveloper1](https://github.com/SebasDeveloper1) / © 2022
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
