@@ -1,4 +1,6 @@
-# ✅My first app with React JS (TO DO list)🖼
+# ✅TO-DO list🖼
+
+🗓 Organize your pending tasks easily and quickly thanks to "To Do List".
 
 Final project of the Introduction to React.js Course in [Platzi](https://platzi.com/cursos/react/ "Platzi"). 💚💻
 
