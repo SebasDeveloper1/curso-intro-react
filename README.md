@@ -5,7 +5,7 @@
 Final project of the Introduction to React.js Course in [Platzi](https://platzi.com/cursos/react/ "Platzi"). 💚💻
 
   <p align="center">
- <a href="https://sebasdeveloper1.github.io/curso-intro-react/">  <img alt="Demo project" src="https://img.shields.io/twitter/url?colorA=7209b7&colorB=480ca8&label=Demo project&logo=google-chrome&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FSebasDeveloper"></a>
+ <a href="https://sd-todo-list.netlify.app/">  <img alt="Demo project" src="https://img.shields.io/twitter/url?colorA=7209b7&colorB=480ca8&label=Demo project&logo=google-chrome&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FSebasDeveloper"></a>
   </p>
 
 ### 🔨 Languages and Tools:
