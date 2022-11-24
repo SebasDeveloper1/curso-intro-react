@@ -8,7 +8,7 @@ export function TodoItem(props) {
         className={`Icon Icon-check ${props.completed && "Icon-check--active"}`}
         onClick={props.onComplete}
       >
-        <i class="fas fa-check-circle"></i>
+        <i className="fas fa-check-circle"></i>
       </span>
       <p
         className={`todo-item-p ${props.completed && "todo-item-p--complete"}`}
@@ -16,7 +16,10 @@ export function TodoItem(props) {
         {props.text}
       </p>
       <span className="Icon Icon-delete" onClick={props.onDelete}>
-        <i class="fas fa-trash"></i>
+        <i className="fas fa-trash"></i>
+      </span>
+      <span className="Icon Icon-edit" onClick={props.onEdit}>
+        <i className="fas fa-pen"></i>
       </span>
     </li>
   );

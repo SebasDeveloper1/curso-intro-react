@@ -1,14 +1,8 @@
 // import "./App.css";
 import React from "react";
-import { TodoProvider } from "../TodoContext";
-import { AppUI } from "./AppUI";
-
+import { NavigationRoutes } from "../routes/NavigationRoutes";
 function App() {
-  return (
-    <TodoProvider>
-      <AppUI />
-    </TodoProvider>
-  );
+  return <NavigationRoutes />;
 }
 
 export default App;

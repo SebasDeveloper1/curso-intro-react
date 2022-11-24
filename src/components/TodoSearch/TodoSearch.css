@@ -1,7 +1,7 @@
 .todo-search {
   width: 70%;
-  max-width: 300px;
-  padding: 14px;
+  max-width: 500px;
+  padding: 14px 24px;
   margin-bottom: 32px;
   font-size: 1.6rem;
   font-weight: 400;
@@ -17,5 +17,5 @@
 }
 
 .todo-search::placeholder {
-  color: var(--color-textprimary);
+  color: var(--color-secondary);
 }
