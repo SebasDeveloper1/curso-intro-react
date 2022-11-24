@@ -11,7 +11,7 @@ export function TodoSearch() {
     <input
       className="todo-search"
       type="text"
-      placeholder="Search..."
+      placeholder="Buscar tarea..."
       value={searchValue}
       onChange={onSearchValueChange}
     ></input>
