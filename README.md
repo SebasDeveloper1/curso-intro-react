@@ -50,7 +50,6 @@ Final project of the Introduction to React.js Course in [Platzi](https://platzi.
 
 ---
 
----
 
 ⭐️ From [@SebasDeveloper1](https://sebasdeveloper.netlify.app/) / 2022
 
